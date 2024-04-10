@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.21,-50.8,0.0,top
+C2,22µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,152.4,-59.485,-90.0,top
+C7,4.7µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.21,-46.91,0.0,top
+C8,4.7µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,142.24,-44.53,-90.0,top
+C9,4.7µF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,151.21,-43.18,0.0,top
+D1,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,149.86,-38.1,0.0,top
+R1,0.47K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,144.78,-35.56,0.0,top
+R2,2K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,146.68,-43.18,180.0,top
+R3,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,119.38,-55.88,90.0,top
+R4,6.8K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,119.38,-60.96,90.0,top
+SW1,SW_SPDT,mySwitch,142.817,-51.925,-90.0,top
+SW3,SW_SPDT,mySwitch,129.54,-36.02,90.0,top
+U1,AZ1117IH-3.3TRG1,SOT230P700X185-4N,147.32,-58.42,-90.0,top
+U2,L293D,DIP-16_W7.62mm,125.72,-44.435,0.0,top
+U3,MCP73831-2-OT,SOT-23-5,145.9175,-39.05,0.0,top
