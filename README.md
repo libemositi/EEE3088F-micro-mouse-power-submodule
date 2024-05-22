@@ -13,7 +13,7 @@ Alpha and beta testing for bug identification and user feedback
 Installation:
 Clone the repository:
 
-git clone https://github.com/your-username/micro-mouse-power-submodule.git
+git clone https://github.com/libemositi/micro-mouse-power-submodule.git
 Install KiCad:
 
 Download and install KiCad from KiCad Website
